@@ -4,7 +4,7 @@
   ~ =  PROJECT     PhotoHelper
   ~ =  MODULE      PhotoHelper.PhotoHelper
   ~ =  FILE NAME   colors.xml
-  ~ =  LAST MODIFIED BY PASSIONPENGUIN [8/14/20 12:35 PM]
+  ~ =  LAST MODIFIED BY PASSIONPENGUIN [8/15/20 2:25 PM]
   ~ ======================================================================
   ~ Copyright 2020 PassionPenguin. All rights reserved.
   ~   ~
@@ -35,5 +35,6 @@
     <color name="grey">#888888</color>
     <color name="light">#BBBBBB</color>
     <color name="white">#FFFFFF</color>
-    <color name="bg">#f6f7f9</color>
+    <color name="bg">#f3f4f5</color>
+    <color name="surface">#F2F3F6</color>
 </resources>

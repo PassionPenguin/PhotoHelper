@@ -2,7 +2,7 @@
   ~ ======================================================================
   ~ =  PROJECT     PhotoHelper
   ~ =  MODULE      PhotoHelper.PhotoHelper
-  ~ =  FILE NAME   strings.xml
+  ~ =  FILE NAME   ic_baseline_arrow_drop_down_24.xml
   ~ =  LAST MODIFIED BY PASSIONPENGUIN [8/15/20 2:25 PM]
   ~ ======================================================================
   ~ Copyright 2020 PassionPenguin. All rights reserved.
@@ -21,12 +21,13 @@
   ~ ======================================================================
   -->
 
-<resources>
-    <string name="cancel">Cancel</string>
-    <string name="album_all_photo">All Photos</string>
-    <string name="tvPhotoPreview">Preview</string>
-    <string name="tvPhotoEdit">Edit</string>
-    <string name="ivOriginalCheckbox">Original Photo</string>
-    <string name="confirm">Confirm</string>
-    <string name="photo_content">Photo</string>
-</resources>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="?attr/colorControlNormal">
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M7,10l5,5 5,-5z"/>
+</vector>
